@@ -1,2 +1,2 @@
-# first_project
-first project
+# first_repository
+first repository
